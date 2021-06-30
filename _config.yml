@@ -1,5 +1,5 @@
 title: Pytorch Fanatics
-description: Pytorch_Fanatics is a Python library for ease of Computer Vision tasks.This contains a bunch of various tools which will help to create customized codes to train CV models.
+description: A simple CV library for Classification Tasks
 theme: jekyll-theme-cayman
 github:
   zip_url: https://github.com/MiHarsh/Pytorch_Fanatics/archive/refs/heads/main.zip
