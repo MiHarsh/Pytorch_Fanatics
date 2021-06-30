@@ -1,1 +1,14 @@
+title: Pytorch Fanatics
+description: Pytorch_Fanatics is a Python library for ease of Computer Vision tasks.This contains a bunch of various tools which will help to create customized codes to train CV models.
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://github.com/MiHarsh/Pytorch_Fanatics/archive/refs/heads/main.zip
+  tar_url: https://github.com/MiHarsh/Pytorch_Fanatics/tarball/main
+  clone_url: https://github.com/MiHarsh/Pytorch_Fanatics.git
+  owner_url: https://github.com/MiHarsh
+show_downloads: true
+
+plugins:
+  - jekyll-seo-tag
+  
+image: https://github.com/MiHarsh/MiHarsh.github.io/blob/main/image/me.jpeg
